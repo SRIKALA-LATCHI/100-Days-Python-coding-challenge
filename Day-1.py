@@ -9,8 +9,8 @@ for i in range(n):
         j+=1
 for i in l:
     print(i,end=" ")
-
-output :
+    
+"""Input:
 6
 10
 20
@@ -18,4 +18,5 @@ output :
 0
 0
 8
-10 20 30 8 0 0  
+output :
+10 20 30 8 0 0"""
