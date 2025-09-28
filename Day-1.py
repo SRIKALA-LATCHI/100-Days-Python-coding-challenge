@@ -1,3 +1,4 @@
+# moving zero elements to the end of the array.
 n=int(input())
 j=0
 l=[0 for i in range(n)]
@@ -9,3 +10,12 @@ for i in range(n):
 for i in l:
     print(i,end=" ")
 
+output :
+6
+10
+20
+30
+0
+0
+8
+10 20 30 8 0 0  
